@@ -25,7 +25,7 @@
     	},
     	{"tag": "uni_info",
      	"patterns":["where is university located","address","CHARUSAT Contact No.?","Where can I find Map of CHARUSAT college?","location","contact","connect","located","how to find the university","how to contact","where to contact","How to connect","how to come to CHARUSAT","where is charusat","where is university"],
-     	"responses":["CHARUSAT is located at Off. Nadiad-Petlad Highway, Changa 388 421,Anand, Gujarat, INDIA. \nYou can contact us by Telephone: 02697-265011 \nEmail: info@charusat.ac.in \nOn Google map: https://goo.gl/maps/3nGxqQaKptdRN8ym9"]
+     	"responses":["CHARUSAT is located at Off. Nadiad-Petlad Highway, Changa 388 421,Anand, Gujarat, INDIA. \nYou can contact us by Telephone: 02697-265011 \nEmail: info@charusat.ac.in \nOn Google map: <a href=\"https://www.charusat.ac.in/hostels.php/\">https://goo.gl/maps/3nGxqQaKptdRN8ym9</a>"]
     	},
     	{"tag": "deparments",
      	"patterns":["departments","how many departments","how many institutes","institutes","institutes list","list of institutes","department list","list of department","which are the departments in the university","how many institutes in the university"],
@@ -57,7 +57,7 @@
     	},
 		{"tag": "google_map",
      	"patterns":["Where can I find Map of CHARUSAT college?","google map","college map","map","direction"],
-     	"responses":["CHARUSAT map is <a href=\"https://www.charusat.ac.in/images/charusat-map.jpg\">here</a> Click on link."]
+     	"responses":["CHARUSAT map is <a href=\"https://goo.gl/maps/3nGxqQaKptdRN8ym9\">https://goo.gl/maps/3nGxqQaKptdRN8ym9</a> Click on link."]
     	},
 		{"tag": "charu_strength",
      	"patterns":["How many strength of Employees and Students?","how many students are there","how many employee are there","total people teacher student in charusat"],
@@ -77,11 +77,11 @@
     	},
     	{"tag": "placement",
     	"patterns":["placement","placements","How is placement","How is placement there","How is placement in Charusat University","salary","package","How much package they got."],
-    	"responses":["CHARUSAT provides excellent placemts opportunities. More than 20 companies come for on-campus placement, like jaro education, BYJU'S, Berger, adani, Jeavio, TVTV, Samsung, Crest Data Systems etc., you can read more <a href=\"https://www.charusat.ac.in/placement.php\">here</a>"]
+    	"responses":["CHARUSAT provides excellent placemts opportunities. More than 20 companies come for on-campus placement, like jaro education, BYJU'S, Berger, adani, Jeavio, TVTV, Samsung, Crest Data Systems etc., you can read more <a href=\"https://www.charusat.ac.in/placement.php\">https://www.charusat.ac.in/placement.php</a>"]
     	},
 		{"tag": "celebrations",
 		"patterns":["celebration","celebrations","celebrated","celebration in charusat","festival celebration","how charusat celebrate festivals","Is there any festival celebrated in this college"],
-		"responses": ["We at CHARUSAT celebrate festivals and days very enthusiastically. You can follow our social media page as well. There are many festival celebrating like Vrund , cognizance, spoural etc., Read more <a href=\"https://www.instagram.com/thecharusat/\">here</a>"]
+		"responses": ["We at CHARUSAT celebrate festivals and days very enthusiastically. You can follow our social media page as well. There are many festival celebrating like Vrund , cognizance, spoural etc., Read more <a href=\"https://www.instagram.com/thecharusat/\">https://www.instagram.com/thecharusat/</a>"]
 		},
         {"tag": "options",
          "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
@@ -189,7 +189,7 @@
     	},
 		{"tag": "google_map",
      	"patterns":["Where can I find Map of CHARUSAT college?","google map","college map","map","direction"],
-     	"responses":["CHARUSAT map is <a href=\"https://www.charusat.ac.in/images/charusat-map.jpg\">here</a> Click on link."]
+     	"responses":["CHARUSAT map is <a href=\"https://goo.gl/maps/3nGxqQaKptdRN8ym9\">https://goo.gl/maps/3nGxqQaKptdRN8ym9</a> Click on link."]
     	},
 		{"tag": "charu_strength",
      	"patterns":["How many strength of Employees and Students?","how many students are there","how many employee are there","total people teacher student in charusat"],
