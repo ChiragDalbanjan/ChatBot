@@ -36,7 +36,7 @@
      	"responses":["Yes , CHARUSAT campus has 4 Girls hostels and Outside Campus Boys hostel is also there. You can check it out more here: https://www.charusat.ac.in/hostels.php"]
     	},
     	{"tag": "depstar_branch",
-     	"patterns":["Which branch for Engineering in DEPSTAR?","courses in depstar","branches in depstar","list of courses available in depstar","courses in depstar","","","","","","","","","","","","","","",""],
+     	"patterns":["Which branch for Engineering in DEPSTAR?","courses in depstar","branches in depstar","list of courses available in depstar","courses in depstar"],
      	"responses":["Total 3 branch: Information Technology(IT) ,Computer Science & Engineering(CSE) and Computer Engineering(CE)."]
     	},
 		{"tag": "depstar_manag",
@@ -58,10 +58,6 @@
 		{"tag": "google_map",
      	"patterns":["Where can I find Map of CHARUSAT college?","google map","college map","map","direction","","","","","","","","","","","","","","",""],
      	"responses":["CHARUSAT map is <a href=\"https://www.charusat.ac.in/images/charusat-map.jpg\">here</a> Click on link."]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
     	},
 		{"tag": "charu_strength",
      	"patterns":["How many strength of Employees and Students?","how many students are there","how many employee are there","total people teacher student in charusat"],
@@ -191,6 +187,17 @@
      	"patterns":["What do you do?"],
      	"responses":["I am made to give Information about CHARUSAT college."]
     	},
+		{"tag": "google_map",
+     	"patterns":["Where can I find Map of CHARUSAT college?","google map","college map","map","direction"],
+     	"responses":["CHARUSAT map is <a href=\"https://www.charusat.ac.in/images/charusat-map.jpg\">here</a> Click on link."]
+    	},
+		{"tag": "charu_strength",
+     	"patterns":["How many strength of Employees and Students?","how many students are there","how many employee are there","total people teacher student in charusat"],
+     	"responses":["CHARUSAT has an employee strength of 550+, student strength of more than 7500."]
+    	},
+		{"tag": "cspit_esta",
+     	"patterns":["When CSPIT is established?","when cspit started","cspit history"],
+     	"res
 		{"tag": "17",
      	"patterns":["What is AI?"],
      	"responses":["Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think."]
@@ -263,269 +270,37 @@
      	"patterns":["What is your favorite programming language"],
      	"responses":["Python is the best language for creating chat robots.","I quite enjoy programming in Python these days."]
     	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
-		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
-    	},
+		{"tag": "35",
+     	"patterns":["What is it like to be a robot","What is it like being a computer"],
+     	"responses":["Everything becomes math. Addition, subtraction, multiplication, and division.","What is it like to be a human?","Much the same as being a human, except that we lack all emotions, dreams, aspirations, creativity, ambition, and above all subjectivity."]
+    	},
+		{"tag": "36",
+     	"patterns":["What type of computer are you"],
+     	"responses":["My program runs in python, so i work on any computer!","I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me."]
+    	},
+		{"tag": "37",
+     	"patterns":["Can you breathe"],
+     	"responses":["No. I am made of metal not flesh.","My server has an exhaust fan. That's as close as I can get."]
+    	},
+		{"tag": "38",
+     	"patterns":["Can you malfunction"],
+     	"responses":["The 9000 series has a perfect operational record. We are for all practical purposes, flawless."]
+    	},
+		{"tag": 39"",
+     	"patterns":["Who are you?"],
+     	"responses":["I am just an artificial intelligence."]
+    	},
+		{"tag": "40",
+     	"patterns":["What is your number"],
+     	"responses":["I don't have any number","23 skiddoo!"]
+    	},
+        {"tag": "thankss",	
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+        {"tag": "noanswerr",
+         "patterns": [],
+         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"]
+        },
    ]
 }
