@@ -195,9 +195,6 @@
      	"patterns":["How many strength of Employees and Students?","how many students are there","how many employee are there","total people teacher student in charusat"],
      	"responses":["CHARUSAT has an employee strength of 550+, student strength of more than 7500."]
     	},
-		{"tag": "cspit_esta",
-     	"patterns":["When CSPIT is established?","when cspit started","cspit history"],
-     	"res
 		{"tag": "17",
      	"patterns":["What is AI?"],
      	"responses":["Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think."]
