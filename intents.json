@@ -33,7 +33,7 @@
     	},
     	{"tag": "hostel",
      	"patterns":["hostel","hostels","Is hostel available?","What is the capacity of Hostels?","What are the facilities in hostel?","Is Student's Care facility in hostel?"],
-     	"responses":["Yes , CHARUSAT campus has 4 Girls hostels and Outside Campus Boys hostel is also there. You can check it out more here: https://www.charusat.ac.in/hostels.php"]
+     	"responses":["Yes , CHARUSAT campus has 4 Girls hostels and Outside Campus Boys hostel is also there. You can check it out more <a href=\"https://www.charusat.ac.in/hostels.php/\">here</a> "]
     	},
     	{"tag": "depstar_branch",
      	"patterns":["Which branch for Engineering in DEPSTAR?","courses in depstar","branches in depstar","list of courses available in depstar","courses in depstar"],
