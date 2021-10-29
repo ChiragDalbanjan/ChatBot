@@ -301,6 +301,6 @@
         {"tag": "noanswerr",
          "patterns": [],
          "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"]
-        },
+        }
    ]
 }
